@@ -1,3 +1,3 @@
-from funcs import main
+from funcs import demain
 
-main()
+demain()
